@@ -4,4 +4,4 @@
 <br>
 # Hello!
 <br>
-| [HOME](/) |
+| [HOME](/) | [LOG](https://joshste.github.io/os212/TXT/mylog.txt) | 
