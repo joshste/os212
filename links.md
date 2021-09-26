@@ -14,3 +14,6 @@ a page that reference OSC09 Chapter 14. Can be used for reviewing some things ab
 
 #### 3. [Quick and Dirty Guide to C](https://courses.cs.washington.edu/courses/cse351/14sp/sections/1/Cheatsheet-c.pdf)
 a 2 page pdf infodump about C. Useful if you forgot some syntax or basic things.
+
+#### 4. [File Allocation Methods](https://www.geeksforgeeks.org/file-allocation-methods/)
+A summary about file allocation methods: contiguous, linked, and indexed allocation. Also tells about the advantages and disadvantages from each method.
