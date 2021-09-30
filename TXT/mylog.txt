@@ -19,3 +19,8 @@ ZCZC W03 120 L06 Books/GSGS
 ZCZC W03  10 L01 SCELE/Discord
 ZCZC W03  50 L07 Trying demo
 ZCZC W03 100 L09 Assignment
+ZCZC W04  30 L00 General
+ZCZC W04 120 L02 ZOOM meeting
+ZCZC W04   5 L03 Github related
+ZCZC W04 150 L06 GSGS, Books
+ZCzc W04  30 L09 Assignment
