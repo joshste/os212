@@ -17,3 +17,6 @@ a 2 page pdf infodump about C. Useful if you forgot some syntax or basic things.
 
 #### 4. [File Allocation Methods](https://www.geeksforgeeks.org/file-allocation-methods/)
 A summary about file allocation methods: contiguous, linked, and indexed allocation. Also tells about the advantages and disadvantages from each method.
+
+#### 5. [Pointers in C](https://boredzo.org/pointers/)
+Everything you need to know about pointers in C. Extremely useful for learning pointers.
