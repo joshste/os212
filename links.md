@@ -20,3 +20,6 @@ A summary about file allocation methods: contiguous, linked, and indexed allocat
 
 #### 5. [Pointers in C](https://boredzo.org/pointers/)
 Everything you need to know about pointers in C. Extremely useful for learning pointers.
+
+#### 6.[Page Tables](https://www.cs.cornell.edu/courses/cs4410/2015su/lectures/lec14-pagetables.html)
+About Page Tables. Single level page table, multi level page table, and Segmentation.

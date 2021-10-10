@@ -23,4 +23,9 @@ ZCZC W04  30 L00 General
 ZCZC W04 120 L02 ZOOM meeting
 ZCZC W04   5 L03 Github related
 ZCZC W04 150 L06 GSGS, Books
-ZCzc W04  30 L09 Assignment
+ZCZC W04  30 L09 Assignment
+ZCZC W05  40 L00 General
+ZCZC W05 120 L02 ZOOM meeting
+ZCZC W05   5 L03 Github related
+ZCZC W05 120 L06 GSGS, Books
+ZCZC W05  15 L09 Assignment
