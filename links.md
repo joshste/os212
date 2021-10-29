@@ -23,3 +23,12 @@ Everything you need to know about pointers in C. Extremely useful for learning p
 
 #### 6.[Page Tables](https://www.cs.cornell.edu/courses/cs4410/2015su/lectures/lec14-pagetables.html)
 About Page Tables. Single level page table, multi level page table, and Segmentation.
+
+#### 7.[Zombie and Orphan Process](https://shivammitra.com/operating%20system/zombie-and-orphan-process-in-opearting-system/#)
+About Zombie and Orphan Process. What is it, example, and the result.
+
+#### 8.[Visualization of a fork call](https://www.youtube.com/watch?v=QD9YKSg3wCc)
+9 minute youtube video. Explaining about fork in c and how it is visualized.
+
+#### 9.[Process OSC 9 Chapter 3](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/3_Processes.html)
+Explaining Process with references to OSC 9. Useful for a quick read.

@@ -29,3 +29,8 @@ ZCZC W05 120 L02 ZOOM meeting
 ZCZC W05   5 L03 Github related
 ZCZC W05 120 L06 GSGS, Books
 ZCZC W05  15 L09 Assignment
+ZCZC W06  30 L02 ZOOM meeting
+ZCZC W06 200 L06 GSGS, Books, Slide
+ZCZC W06  30 L07 Trying W06 Demos
+ZCZC W06  30 L00 General
+ZCZC W06  20 L09 Assignment
