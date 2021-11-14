@@ -39,3 +39,7 @@ ZCZC W07  15 L09 Assignment
 ZCZC W07  70 L07 Demos
 ZCZC W07 180 L06 Books, GSGS, Youtube playlist
 ZCZC W07  30 L00 General
+ZCZC W08 220 L09 Assignment
+ZCZC W08  30 L06 Slide
+ZCZC W08  60 L00 General
+

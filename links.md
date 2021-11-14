@@ -42,3 +42,5 @@ Deadlock problem example and its solution (Prevention, Avoidance, Detection).
 #### 12. [Dining philosophers problem](https://www.wikiwand.com/en/Dining_philosophers_problem)
 Wikipedia page about Dining philosophers problem. Dining philosophers problem is deadlock problem.
 
+#### 13. [CPU Scheduling](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)
+GeeksForGeeks page about CPU Scheduling. Why do we need it, alogrithms, and examples.
